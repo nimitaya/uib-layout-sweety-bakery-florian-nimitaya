@@ -82,6 +82,11 @@ i {
   }
 }
 
+.fa-bars { 
+  display: none;
+  visibility: hidden;
+}
+
 /* HERO */
 .hero {
   background-image: url(../images/sweetBg.jpg);
@@ -170,12 +175,12 @@ h3 {
 
 /* MEDIA QUERIES */
 @media (min-width: 1200px) {
-  .fa-bars { 
-    display: none;
-  }
-
   img {
     width: 60%;
+  }
+
+  .fa-bars { 
+    display: none;
   }
 }
 
