@@ -84,9 +84,10 @@ i {
 
 .fa-bars { 
   display: none;
+  visibility: hidden;
 }
 
-/* hero */
+/* HERO */
 .hero {
   background-image: url(../images/sweetBg.jpg);
   background-size: cover;
@@ -179,9 +180,8 @@ h3 {
   }
 
   .fa-bars { 
-    display: none !important;
+    display: none;
   }
-  /* musste !important nutzen, weil skript von FontAwesome sonst was überschreibt! */
 }
 
 @media (min-width: 820px) and (max-width: 1199px) {
