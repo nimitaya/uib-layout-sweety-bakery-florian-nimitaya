@@ -1,8 +1,10 @@
+## Small study project with first steps for responsiveness
+
 # The Sweety Bakery
 
-You've been hired! A bakery has contracted you to build them a website for their tasty range of doughnuts 🍩.
+A bakery has contracted you to build them a website for their tasty range of doughnuts 🍩.
 
-![](/reference/desktop-scroll.gif)
+![](./reference/desktop-scroll.gif)
 
 ## Task
 
